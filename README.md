@@ -1,6 +1,6 @@
 Agro Orgânico
 
-Site é um página dedicado à promoção da agricultura orgânica no Brasil e ao redor do mundo, com um foco especial no cultivo inovador de arroz utilizando práticas sustentáveis com a ajuda de patos. E conta com um vídeo mostrando na pratica de o cultivo de arroz com a utilização de pato. 
+Site é um página dedicado à promoção da agricultura orgânica no Brasil e ao redor do mundo, com um foco especial no cultivo inovador de arroz utilizando práticas sustentáveis com a ajuda de patos. E conta com um vídeo mostrando na pratica o cultivo de arroz com a utilização de pato. 
 
 
 
